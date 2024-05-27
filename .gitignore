@@ -1,0 +1,19 @@
+# Ignore all
+*
+
+# Unignore all dirs
+!*/
+
+# Unignore all with extensions
+!*.*
+
+# VSCode
+.vscode/
+
+# GCC generated files
+*.o
+*.out
+*.swp
+*.exe
+*.zip
+*.xlsx
