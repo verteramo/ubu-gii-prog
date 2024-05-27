@@ -14,7 +14,7 @@ Antes de nada, felicitarte por tu trabajo y por la claridad de tu código.
   - main(): de acuerdo, pero "gasta" alguna variable auxiliar. Ahora son baratas.
   - option0: es hora de que alguien reparase en estas cosas. Debes aportar, por educación, un return en las funciones void.
   - option2: debes darte cuenta de que es una función muy similar a la anterior. Valores como "25000" deben ser constantes, defines o etiqueta de tipo enumerado.
-  -Opción 3: mejor si independizas el crear el binario de la búsqueda binaria. Son dos cosas que, aunque están relacionadas, no deben ser una secuencia. Salvo que, por ejemplo, hubiese cambiado el fichero original, y en todo caso, es algo a "disparar" fruto de ese cambio, más que de la búsqueda binaria.
+  - Opción 3: mejor si independizas el crear el binario de la búsqueda binaria. Son dos cosas que, aunque están relacionadas, no deben ser una secuencia. Salvo que, por ejemplo, hubiese cambiado el fichero original, y en todo caso, es algo a "disparar" fruto de ese cambio, más que de la búsqueda binaria.
   - find(): tras el fseek debes verificar el EOF; no hay cosas más insegura que el contenido de un fichero.
   - anomalies(): "10" debe ser constante, define o mejor argumento. Tras la lectura de fichero es necesario verificar el EOF; no os quedéis sólo con el valor devuelto por fscanf.
 En todo caso, se trata de un ejercicio excelente, el mejor que hemos corregido con diferencia. Se te anima a seguir mejorando, a pesar de tu buen nivel.
